@@ -1,0 +1,4 @@
+<#        
+    Show the schema
+#>
+$databaseSchema
