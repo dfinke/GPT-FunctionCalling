@@ -15,3 +15,5 @@ You need to have the following:
 I originally created two of the demos using Polyglot Interactive Notebooks in VS Code. An upgrade to the VS Code Python extension broke the notebook functionality so I had to convert them to regular PowerShell files. You can find the original notebooks in the `root` folder and the scripts in `justScripts`.
 
 The `01-ChatRegistration.ps1` can be run from the console once you set the OpenAI Key and install the PowerShellAI module.
+
+Happy Chatting!
